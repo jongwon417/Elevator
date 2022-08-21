@@ -1,0 +1,16 @@
+../Core/Src/main.c:66:5:__io_putchar	16	static
+../Core/Src/main.c:91:5:main	8	static
+../Core/Src/main.c:152:6:SystemClock_Config	88	static
+../Core/Src/main.c:198:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:245:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:279:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:325:13:MX_TIM2_Init	80	static
+../Core/Src/main.c:397:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:430:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:517:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:552:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:609:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:652:6:roll	16	static
+../Core/Src/main.c:679:6:show_dot	16	static
+../Core/Src/main.c:698:6:ready	8	static
+../Core/Src/main.c:712:6:Error_Handler	4	static,ignoring_inline_asm
