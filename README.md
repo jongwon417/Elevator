@@ -1,5 +1,7 @@
 # Elevator
 
+/Core/Src/main.c
+
 STM32F103RBT6
 
 TIMER 1 - prescaler = 64MHz/64, period = 2000(2ms)
